@@ -1,1 +1,1 @@
-export const api = process.env.REACT_APP_API_URL;
+export const api = https://sanecom.netlify.app/.netlify/functions/index;
